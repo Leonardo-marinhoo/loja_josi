@@ -15,7 +15,7 @@ const Home = () => {
       <Header />
       <Banner />
       <Benefits />
-      <Categories />
+      {/* <Categories /> */}
       <ProductSection background="secondary" title="Mais Vendidos" />
       <ComingSoon />
       <Testimonials />
